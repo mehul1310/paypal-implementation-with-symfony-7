@@ -35,7 +35,7 @@ Before you begin, ensure you have the following:
     ```bash
     composer install
    
-## configuration
+## Configuration
 
 1. **Configure Environment Variables:**
     Create a .env file in the root of the project (or use the existing .env file) and configure your PayPal credentials.
