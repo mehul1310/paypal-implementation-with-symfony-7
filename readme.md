@@ -37,7 +37,7 @@ Before you begin, ensure you have the following:
    
 ## configuration
 
-1. ***Configure Environment Variables:*
+1. ***Configure Environment Variables:**
     Create a .env file in the root of the project (or use the existing .env file) and configure your PayPal credentials.
     ```bash
     PAYPAL_CLIENT_ID=your-sandbox-client-id
